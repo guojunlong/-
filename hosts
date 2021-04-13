@@ -1,0 +1,39 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+0.0.0.0 account.jetbrains.com
+
+
+192.168.1.135	 sgcc.isc.com
+
+
+192.168.1.8		sso.isc.com
+192.168.1.8		uap.isc.com
+192.168.1.8		frontmv.isc.com
+192.168.1.8		adapter.isc.com
+192.168.1.8		test.isc.com
+#9898端口
+192.168.1.8		mp.isc.com
+192.168.1.8		sm.isc.com
+192.168.1.8		manage.isc.com
+192.168.1.8		as.isc.com
+
+192.168.1.8		jms.isc.com
+192.168.1.8		memcached.isc.com
+192.168.1.8		db.isc.com
+
+
+#github
+#52.192.72.89			github.com
+#185.199.111.133			avatars2.githubusercontent.com
+#185.199.110.133			avatars3.githubusercontent.com
+#185.199.110.133			avatars4.githubusercontent.com
+#185.199.108.133			raw.githubusercontent.com
+#185.199.110.154			github.githubassets.com
